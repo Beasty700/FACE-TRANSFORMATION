@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Identity Transformer",
+  "description": "Transform person identity, body, clothing, and appearance in video with temporal consistency, AI upscaling, and cinematic enhancement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
